@@ -1,0 +1,88 @@
+.css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 13px 14px !important;
+  }
+  .css-w76bbz-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 13px 14px !important;
+    color: #ababab !important;
+  }
+  .css-z8nmqa-MuiSvgIcon-root {
+    fill: #F06D1A !important;
+  }
+  .css-1bz1rr0-MuiSvgIcon-root {
+  fill:#F06D1A !important;
+  }
+  .css-161ms7l-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track {
+    background-color: #F06D1A !important;
+  }
+  .css-161ms7l-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
+    color: #F06D1A !important;
+  }
+  .css-1dune0f-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 13px 14px !important;
+  }
+  /* .css-1umw9bq-MuiSvgIcon-root {
+    fill:#F06D1A !important;
+  } */
+   .css-1tlcqt-MuiAutocomplete-root .MuiOutlinedInput-root {
+    padding: 0px !important;
+}
+  .css-16bevx5-MuiFormControl-root-MuiTextField-root{
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+  }
+  .css-16mfwdg-MuiFormControl-root{
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+  }
+  .select-lable{
+    color: #696666 !important;
+  }
+   .prebutton{
+    padding: 10px !important;
+  }
+  .MuiOutlinedInput-root:not(.Mui-focused):hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0, 0, 0, 0.23) !important; /* Default border color */
+  }
+  .css-er619e-MuiFormHelperText-root{
+    margin-left: 0px !important;
+  }
+  .css-nwsdb5-MuiFormLabel-root.Mui-error {
+    color: #5d5d5d !important;
+  }
+  .upload-button {
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    min-height: 48px;
+    cursor: pointer;
+  }
+  .cancel-button {
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+    font-size: 15px;
+    text-transform: none;
+    color: #F45C24 !important;
+    border-color: #F45C24 !important;
+    margin-right: 10px !important;
+  }
+  
+  .cancel-button:hover {
+    border-color: #F45C24;
+    background-color: rgba(244, 92, 36, 0.04);
+  }
+  .uploaded-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px dashed #ccc;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .uploaded-button:hover {
+    border-color: #1976d2;
+  }
